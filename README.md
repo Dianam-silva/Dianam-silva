@@ -6,7 +6,7 @@
 
 -  👩‍🎓 Atualmente estou cursando Pós , pela Cruzeiro do Sul em Analise de dados com BI e BIG DATA. 
 
-- 🧠 Além da Pós, também estou focadA  em  cursos mais práticos pela Alura, onde tem sido muito enriquecedor para meus conhecimentos nesse vast mundo dos dados.
+- 🧠 Além da Pós, também estou focadA  em  cursos mais práticos pela Alura, onde tem sido muito enriquecedor  para meus conhecimentos nesse vasto mundo dos dados.
 
 - 📫 Pode me contatar através do E-mail **dianamsilvaone@gmail.com**
 
