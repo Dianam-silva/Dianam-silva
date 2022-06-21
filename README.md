@@ -1,5 +1,5 @@
 
-<h1 align="center">Oi 👋, Diana Silva, aqui!</h1>
+<h1 align="center">Oi 👋, Diana Silva aqui!  </ h1>
 <h3 align="center">Futura Analista de BI e apaixonada por dados ❤️</h3>
 
 - 🔭 Trabalho há 6 anos na área comercial e estou em processo de migrações de carreira. 
