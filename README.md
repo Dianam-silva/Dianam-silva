@@ -1,40 +1,64 @@
+<h1 align="center">Oi 👋, Diana aqui!</h1>
 
-<h1 align="center">Oi 👋, Diana Silva aqui!  </ h1>
-<h3 align="center">Futura Analista de BI e apaixonada por dados ❤️</h3>
+<h3 align="center">
+Conectando negócio, processos, pessoas e dados.
+</h3>
 
-- 🔭 Trabalho há 6 anos na área comercial e estou em processo de migrações de carreira. 
+Sou profissional de Dados & Analytics com atuação na interseção entre negócio, processos e tecnologia.
 
--  👩‍🎓 Atualmente estou cursando Pós , pela Cruzeiro do Sul em Analise de dados com BI e BIG DATA. 
+Acredito que clareza, colaboração e visão sistêmica são fundamentais para transformar desafios complexos em resultados sustentáveis.
 
-- 🧠 Além da Pós, também estou focadA  em  cursos mais práticos pela Alura, onde tem sido muito enriquecedor  para meus conhecimentos nesse vasto mundo dos dados.
+Atuo conectando diferentes perspectivas para construir soluções escaláveis, promover alinhamento entre áreas e apoiar decisões mais inteligentes orientadas por dados.
 
-- 📫 Pode me contatar através do E-mail **dianamsilvaone@gmail.com**
+---
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dianamdsilva/" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dianamdsilva /" height="30" width="40" /></a>
-</p>
+## 🚀 O que me motiva
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https:/ /www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https:/ /www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt ="python" width="40" height="40"/> </a> </p>
+- Resolver desafios que conectam estratégia, dados, tecnologia e pessoas.
+- Construir soluções escaláveis que possam evoluir junto com o negócio.
+- Traduzir conceitos e necessidades técnicas em uma linguagem mais clara, facilitando a compreensão, colaboração e alinhamento entre áreas técnicas e não técnicas.
+- Estabelecer padrões, processos e documentações que promovam consistência, colaboração e crescimento sustentável.
+- Explorar aplicações de Inteligência Artificial para geração de valor, ganho de eficiência e apoio à tomada de decisão.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app /api/top-langs?username=dianam-silva&show_icons=true&locale=en&layout=compact" alt="dianam-silva" /></p>
+---
 
-<!--
-- 🌱Futura Analista de Dados.
--
-- 
+## 🛠️ Competências e Tecnologias
 
-**Dianam-silva/Dianam-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Platforms & Cloud
+- Microsoft Fabric
+- Databricks
+- Azure Data Factory
+- Microsoft Azure
 
-Here are some ideas to get you started:
+### Data Engineering
+- SQL
+- Python
+- ETL / ELT
+- Data Modeling
+- Data Pipelines
+- Apache Spark
+- Data Lakehouse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!--
+### Analytics & Business Intelligence
+- Business Analytics
+- Power BI
+- DAX
+- Data Visualization
+
+### Generative AI
+- LLMs
+- Prompt Engineering
+- RAG
+
+### Collaboration & Delivery
+- Git
+- GitHub
+- Azure DevOps
+- Jira
+- Confluence
+
+---
+
+## 📫 Contato
+📧 dianamsilvaone@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/dianamdsilva/
