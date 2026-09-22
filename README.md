@@ -1,9 +1,5 @@
 <h1 align="center">Oi 👋, Diana aqui!</h1>
 
-<h3 align="center">
-Conectando negócio, processos, pessoas e dados.
-</h3>
-
 Sou profissional de Dados & Analytics com atuação na interseção entre negócio, processos e tecnologia.
 
 Acredito que clareza, colaboração e visão sistêmica são fundamentais para transformar desafios complexos em resultados sustentáveis.
